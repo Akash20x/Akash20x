@@ -1,4 +1,5 @@
-# Hey, this is Akash Jain 👋
+## Hello! I'm Akash Jain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
 
 A Computer Science Engineering Student and Frontend Web developer.  <br>
 
