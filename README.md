@@ -68,7 +68,10 @@ A Computer Science Engineering Student and Frontend Web developer.  <br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/akash-jain-0b7523133)](https://www.linkedin.com/in/akash-jain-0b7523133)
 [![Email](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:akash982jain@gmail.com)](mailto:akash982jain@gmail.com)
 
-
+ ### Watch a snake eating my Github Contribution Graph
+  
+ ![Snake animation](https://github.com/Akash20x/Akash20x/blob/output/github-contribution-grid-snake.svg)
+  
 ------------ 
 
 <p align="center">Thanks for visiting my profile</p>
