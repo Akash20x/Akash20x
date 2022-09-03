@@ -18,14 +18,8 @@ A Computer Science Engineering Student and Frontend Web developer.  <br>
 <div align="center">
   <a href="https://github.com/Akash20x">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akash20x&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash20x&layout=compact&langs_count=7&theme=gotham"/>
+  <img alt="Akash20x streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash20x&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </div>
-  
-  <p align="center">
-        <img alt="Akash20x streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash20x&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</p>
-
-  
   
   
   ## <img width="35px" height="35px" src="https://img.icons8.com/nolan/64/administrative-tools.png"/> Languages & Tools:
@@ -53,14 +47,6 @@ A Computer Science Engineering Student and Frontend Web developer.  <br>
 <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-</p>
-
-### I'm currently learning:
-<p>
-
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
 </p>
 
