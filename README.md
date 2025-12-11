@@ -55,7 +55,7 @@ A Computer Science Engineering Student and Frontend Web developer.  <br>
 
  ### Watch a snake eating my Github Contribution Graph
   
- ![Snake animation](https://github.com/Akash20x/Akash20x/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://raw.githubusercontent.com/Akash20x/Akash20x/output/github-contribution-grid-snake.svg)
   
 ------------ 
 
