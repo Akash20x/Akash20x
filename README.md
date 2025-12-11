@@ -17,8 +17,7 @@ A Computer Science Engineering Student and Frontend Web developer.  <br>
 ### 🛠 Analytics & Languages
 <div align="center">
   <a href="https://github.com/Akash20x">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akash20x&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img alt="Akash20x streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash20x&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Akash20x&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
   
   
@@ -61,6 +60,9 @@ A Computer Science Engineering Student and Frontend Web developer.  <br>
 ------------ 
 
 <p align="center">Thanks for visiting my profile</p>
-<p align="center"><img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=Akash20x" /> </p>
+<p align="center">
+  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Akash20x" />
+</p>
+
 
 
